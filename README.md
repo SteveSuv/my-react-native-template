@@ -1,0 +1,1 @@
+my react-native basic template with react-navigation and redux

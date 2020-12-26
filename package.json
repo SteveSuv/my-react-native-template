@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "build": "cd android && gradlew assembleRelease",
     "clean": "cd android && gradlew clean",
-    "push": "git add .&&git commit -m 'TAO'&&git push origin main"
+    "push": "git add .&&git commit -m 'TAO'&&git push origin master"
   },
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.10",
